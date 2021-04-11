@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 
 📈 My GitHub Stats
-
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=rai-gaurav&count_private=true&show_icons=true&theme=synthwave" alt="gauravrai" />
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rai-gaurav)
   
+</p>
+<p>
+  <a href="https://dev.to/rai-gaurav"><img height="30" src="https://raw.githubusercontent.com/rai-gaurav/rai-gaurav/main/icon/dev.png"></a>&nbsp;&nbsp;
+</p>
