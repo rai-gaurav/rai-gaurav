@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 📈 My GitHub Stats
 <p>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=rai-gaurav&count_private=true&show_icons=true&theme=synthwave" alt="gauravrai" />
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rai-gaurav)
+  ![Gaurav GitHub stats](https://github-readme-stats.vercel.app/api?username=rai-gaurav&count_private=true&show_icons=true&theme=dracula&bg_color=DEG,#282a36,#575b75)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rai-gaurav&show_icons=true&theme=dracula)
   
 </p>
 
