@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 -->
 <div>
   
-  ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rai-gaurav&count_private=true&show_icons=true&theme=dracula)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rai-gaurav&count_private=true&show_icons=true&theme=dracula&layout=compact)
+  ![Gaurav's GitHub stats] (https://github-readme-stats.vercel.app/api?username=rai-gaurav&count_private=true&show_icons=true&theme=dracula)
+  ![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=rai-gaurav&count_private=true&show_icons=true&theme=dracula&layout=compact)
   
 </div>
 </p>
