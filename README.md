@@ -28,7 +28,10 @@ Here are some ideas to get you started:
   
   ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rai-gaurav&count_private=true&show_icons=true&theme=vue-dark)
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rai-gaurav&count_private=true&show_icons=true&layout=compact&theme=vue-dark)
-  
+
+  ![Stats](./profile/stats-dark.svg)
+  ![Top Languages](./profile/top-langs-dark.svg)
+  ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
 </div>
 </p>
 
