@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p>
 <!--
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rai-gaurav&count_private=true&show_icons=true&theme=dracula" alt="gauravrai" />
+    <img src="https://github-stats-extended.vercel.app/api?username=rai-gaurav&count_private=true&show_icons=true&theme=dracula" alt="gauravrai" />
   </p>
 -->
 <div>
